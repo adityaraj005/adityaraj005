@@ -3,13 +3,13 @@
 
 ---
 
-🌱 **Currently mastering:** 
+📈 **Currently mastering:** 
 - Strategic Planning
-- Leadership
+- Leadershipb
 - Data-driven Decision Making
 - Project Management
 
-🌱 **Currently learning:**
+📚 **Currently learning:**
 - Power BI
 - Python
 - SQL
