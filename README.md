@@ -5,7 +5,7 @@
 
 📈 **Currently mastering:** 
 - Strategic Planning
-- Leadershipb
+- Leadership
 - Data-driven Decision Making
 - Project Management
 
