@@ -1,17 +1,34 @@
 # Hi there👋, I'm Aditya Rajvaidya
 **Planning Director**
 
-🌱 I’m currently mastering Strategic Planning, Leadership, Data-driven Decision Making, and Project Management.
+---
 
-📫 How to reach me:
+🌱 **Currently mastering:** 
+- Strategic Planning
+- Leadership
+- Data-driven Decision Making
+- Project Management
 
+🌱 **Currently learning:**
+- Power BI
+- Python
+- SQL
+- Excel
+
+---
+
+📫 **How to reach me:**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityarajvaidya58@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codebasics&logoColor=white)](https://codebasics.io/portfolio/Aditya-Rajvaidya)
+
+---
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rajvaidya-b13886205/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_a_d__d_y/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)
+
+---
 
 ## Languages and Tools:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -24,4 +41,3 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
