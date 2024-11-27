@@ -4,6 +4,7 @@
 🌱 I’m currently mastering Strategic Planning, Leadership, Data-driven Decision Making, and Project Management.
 
 📫 How to reach me:
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityarajvaidya58@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codebasics&logoColor=white)](https://codebasics.io/portfolio/Aditya-Rajvaidya)
 
