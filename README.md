@@ -1,9 +1,11 @@
-# Hello there👋, I'm Aditya Rajvaidya
+# Hi there👋, I'm [Your Name]
 **Planning Director**
 
 🌱 I’m currently mastering Strategic Planning, Leadership, Data-driven Decision Making, and Project Management.
 
-📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityarajvaidya58@gmail.com) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codebasics&logoColor=white)](https://codebasics.io/portfolio/Aditya-Rajvaidya)
+📫 How to reach me:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityarajvaidya58@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codebasics&logoColor=white)](https://codebasics.io/portfolio/Aditya-Rajvaidya)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rajvaidya-b13886205/)
@@ -17,3 +19,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
