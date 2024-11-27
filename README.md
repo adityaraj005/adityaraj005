@@ -1,4 +1,4 @@
-# Hi there👋, I'm [Your Name]
+# Hi there👋, I'm Aditya Rajvaidya
 **Planning Director**
 
 🌱 I’m currently mastering Strategic Planning, Leadership, Data-driven Decision Making, and Project Management.
