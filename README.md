@@ -1,13 +1,7 @@
 # Hi there👋, I'm Aditya Rajvaidya
-**Planning Director**
+**Junior Analyst**
 
 ---
-
-📈 **Currently mastering:** 
-- Strategic Planning
-- Leadership
-- Data-driven Decision Making
-- Project Management
 
 📚 **Currently learning:**
 - Power BI
